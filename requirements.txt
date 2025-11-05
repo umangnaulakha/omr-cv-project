@@ -1,0 +1,13 @@
+opencv-python==4.9.0.80
+numpy==1.26.4
+imutils==0.5.4
+matplotlib==3.8.4
+scikit-image==0.23.2
+scipy==1.12.0
+
+# Optional but recommended for debugging & visual notebooks
+jupyter==1.0.0
+notebook==7.1.3
+
+# If you later add JSON config validation (good practice)
+pydantic==2.7.1
