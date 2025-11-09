@@ -2,7 +2,7 @@ from src.score_sheet import evaluate_sheet, draw_overlay
 import json
 import cv2
 
-sheet = "data/test/sample2.jpg"
+sheet = "data/test/sample1.jpg"
 
 selected, score = evaluate_sheet(sheet, "template.json", "answer_key.json")
 
